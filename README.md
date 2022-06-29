@@ -47,4 +47,4 @@ This project is [MIT](./MIT.md) licensed.
 
 ## Live Demo
 
-[Live Demo Link](https://tarek102.github.io/Portfolio/)
+[Live Demo Link](https://tarek102.github.iocapstone-project-Jamming-page/)
