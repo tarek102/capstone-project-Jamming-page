@@ -356,10 +356,11 @@ button {
   color: var(--grey);
 }
 
-.who-we-are, see {
+.who-we-are {
   display: flex;
   flex-direction: column;
   text-align: center;
+  align-items: center;
   padding: 5%;
   border-bottom: 1px solid var(--blue);
 }
@@ -587,6 +588,10 @@ footer p {
     display: none;
   }
 
+  .partners {
+    padding: 5% 10%;
+  }
+
   .partners-desktop {
     display: flex;
     padding: 1% 10%;
@@ -608,5 +613,51 @@ footer p {
 
   .footer-desktop img {
     margin-right: 50px;
+  }
+
+  /* About page */
+
+  .about-sec {
+    padding: 1% 10%;
+  }
+
+  .about-rec {
+    align-self: center;
+    max-width: 900px;
+  }
+
+  .about-div h3 {
+    display: none;
+  }
+
+  .about-div h1 {
+    font-size: 3vw;
+  }
+
+  .about-rec::before {
+    left: -75px;
+    top: 50px;
+    transform: rotate(-90deg);
+  }
+
+  .under-line::after {
+    width: 10%;
+    left: 45%;
+  }
+
+  .who-we-are-rec {
+    max-width: 400px;
+  }
+
+  .past-gathering {
+    flex-direction: row;
+  }
+
+  .see-the-past {
+    padding: 5% 10%;
+  }
+
+  .gathering-box {
+    margin: 30px 20px;
   }
 }
