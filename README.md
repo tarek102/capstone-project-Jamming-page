@@ -37,9 +37,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- This template was designed by Cindy Shin
 
 ## 📝 License
 
