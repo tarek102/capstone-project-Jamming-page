@@ -1,6 +1,6 @@
 # Jamming project
 
-> This project is about guitar jamming event, where guitar players gather and play the guitar and improvise together.
+> This project is about a guitar jamming event, where guitar players gather and play the guitar and improvise together.
 
 ## Built With
 
@@ -11,11 +11,11 @@
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running. Follow these simple example steps.
 
 - Go to the [repository page](https://github.com/tarek102/capstone-project-Jamming-page)
-- Click on code and copy the link
-- Go to command line and type <git clone https://github.com/tarek102/capstone-project-Jamming-page.git>
+- Click on the code and copy the link
+- Go to the command line and type <git clone https://github.com/tarek102/capstone-project-Jamming-page.git>
 
 ## Author
 
@@ -37,7 +37,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- This template was designed by Cindy Shin
+- This template was designed by Cindy Shin.
 
 ## 📝 License
 
